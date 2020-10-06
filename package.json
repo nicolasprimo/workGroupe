@@ -1,0 +1,22 @@
+{
+  "name": "workgroup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasprimo/workGroupe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasprimo/workGroupe/issues"
+  },
+  "homepage": "https://github.com/nicolasprimo/workGroupe#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.0"
+  }
+}
